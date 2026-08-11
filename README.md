@@ -1,112 +1,80 @@
 <div align="center">
 
-# RebootAI
+# GM Alam | RebootAI
 
-### Platform Engineering • Cloud Operations • Automation • AI Engineering
+### Cloud • DevOps • Platform Engineering • SRE • Operations Support
 
-**Engineering reliable platforms. Automating what comes next.**
+**Linux operations, cloud automation, reliability, observability, and practical AI-assisted engineering.**
 
-[Website](https://www.rebootai.link) · [GitHub](https://github.com/irebootai)
+[Portfolio](https://www.rebootai.link) · [GitHub](https://github.com/irebootai)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-RebootAI is an engineering portfolio and project ecosystem focused on reliable infrastructure, cloud operations, automation, observability, and AI-assisted workflows.
+I am an operations-focused engineer building practical systems around **Linux, cloud infrastructure, automation, CI/CD, observability, reliability, and production support**.
 
-The work showcased here combines Linux operations, Python automation, APIs, CI/CD, monitoring, container platforms, and practical engineering documentation.
-
-## Featured Projects
-
-### ExtremeViper
-
-A Python-based real-time automation and decision-support platform integrating market data, state management, Telegram controls, monitoring, and service deployment.
-
-**Focus:** Python, Linux, systemd, APIs, automation, monitoring, reliability, state machines
-
-### JobFlow
-
-Automation for organizing job discovery, resume tailoring, application workflows, and career intelligence.
-
-**Focus:** workflow automation, APIs, AI-assisted processes, structured data, operational efficiency
-
-### CloudOps
-
-Linux, Docker, monitoring, deployment, troubleshooting, and cloud-operations projects.
-
-**Focus:** Linux, AWS, Docker, observability, incident response, infrastructure support
-
-### OpenShift Labs
-
-Hands-on platform engineering labs covering OpenShift, Argo CD, container deployment, GitOps, and operational workflows.
-
-**Focus:** OpenShift, Kubernetes, GitOps, Argo CD, platform operations
-
-### AWS Labs
-
-Practical AWS projects focused on EC2, IAM, networking, CloudWatch, automation, deployment, and operational reliability.
-
-**Focus:** AWS, EC2, IAM, VPC, CloudWatch, automation
-
-### AI Automation
-
-Production-minded workflows involving AI agents, LLM integrations, APIs, webhooks, and intelligent automation.
-
-**Focus:** AI agents, LLM workflows, APIs, webhooks, automation
-
-## Core Engineering Areas
-
-- Platform engineering and cloud operations
-- Linux administration and production support
-- Python, Bash, APIs, and webhook automation
-- CI/CD and deployment workflows
-- Docker, OpenShift, Kubernetes, and GitOps
-- Monitoring and observability with Grafana, Prometheus, Dynatrace, and CloudWatch
-- Reliability engineering, troubleshooting, and incident response
-- AI-assisted engineering and workflow automation
-
-## Technology Stack
-
-**Languages and scripting:** Python, Bash, SQL, PowerShell  
-**Cloud and infrastructure:** AWS, EC2, VPS, Azure, Linux, systemd, SSH  
-**Containers and platforms:** Docker, OpenShift, Kubernetes  
-**CI/CD and GitOps:** GitHub Actions, Jenkins, GitLab CI, Azure DevOps, Argo CD, Bitbucket  
-**Observability:** Grafana, Prometheus, Dynatrace, CloudWatch, ELK, Splunk  
-**Automation and integration:** REST APIs, webhooks, n8n, AI agents, LLM workflows  
-**Data:** PostgreSQL, MySQL, SQL Server
-
-## RebootAI Ecosystem
-
-```text
-RebootAI
-│
-├── ExtremeViper
-├── JobFlow
-├── CloudOps
-├── OpenShift Labs
-├── AWS Labs
-├── AI Automation
-├── Engineering Blog
-└── Documentation
-```
-
-## Roadmap
-
-- [x] Establish the RebootAI GitHub identity
-- [x] Launch the RebootAI profile repository
-- [ ] Overhaul the ExtremeViper repository
-- [ ] Add architecture diagrams and engineering documentation
-- [ ] Add GitHub Actions quality checks
-- [ ] Publish release history and project roadmaps
-- [ ] Launch the RebootAI website and engineering blog
+My work combines hands-on infrastructure operations with Python and API automation, container platforms, monitoring, incident troubleshooting, and AI-assisted workflows. I focus on making systems easier to operate, safer to change, and easier to understand.
 
 ## Professional Focus
 
-**Platform Engineer | DevOps Engineer | Automation Engineer**
+- Cloud and infrastructure operations
+- DevOps and platform engineering
+- Site reliability and production support
+- Linux administration and troubleshooting
+- Python, Bash, APIs, and webhook automation
+- CI/CD, deployment, and GitOps workflows
+- Monitoring, observability, and incident response
+- AI-assisted operations and workflow automation
 
-Focused on Linux, cloud operations, infrastructure automation, observability, reliability, and AI-assisted engineering.
+## Featured Engineering Work
+
+### ExtremeViper — Flagship Engineering Project
+
+A production-minded Python automation and decision-support platform designed around real-time data processing, state management, operational controls, monitoring, and Linux service deployment.
+
+**Engineering focus:** Python · Linux · systemd · APIs · automation · monitoring · reliability · state machines · CI/CD
+
+[View the public portfolio repository](https://github.com/irebootai/extremeviper_public)
+
+> The public repository is a portfolio-safe presentation of the engineering architecture and operational approach. Sensitive runtime and execution components remain private.
+
+## Core Technology Stack
+
+**Cloud & Infrastructure**  
+AWS · EC2 · Azure · Linux · VPS · systemd · SSH
+
+**Containers & Platforms**  
+Docker · OpenShift · Kubernetes
+
+**Automation & Scripting**  
+Python · Bash · PowerShell · REST APIs · Webhooks · n8n
+
+**CI/CD & GitOps**  
+GitHub Actions · Jenkins · GitLab CI · Azure DevOps · Argo CD · Git · Bitbucket
+
+**Observability & Operations**  
+Grafana · Prometheus · Dynatrace · CloudWatch · ELK · Splunk · Incident Response · RCA
+
+**Data**  
+PostgreSQL · MySQL · SQL Server
+
+**AI-Assisted Engineering**  
+AI agents · LLM workflows · API integrations · workflow automation
+
+## What I Build
+
+I am especially interested in engineering work that sits between development and operations: automating repetitive tasks, improving deployment and monitoring workflows, troubleshooting production systems, documenting operational knowledge, and making infrastructure more reliable.
+
+My portfolio is being curated around work that demonstrates those capabilities rather than around tutorial or forked repositories.
+
+## Career Direction
+
+I am focused on opportunities in:
+
+**Cloud Operations · DevOps · Platform Engineering · Site Reliability Engineering · Operations / Production Support · Infrastructure Automation**
 
 ---
 
@@ -114,6 +82,6 @@ Focused on Linux, cloud operations, infrastructure automation, observability, re
 
 ### Build reliable systems. Automate repeatable work. Document what matters.
 
-[Visit rebootai.link](https://www.rebootai.link)
+[rebootai.link](https://www.rebootai.link)
 
 </div>
