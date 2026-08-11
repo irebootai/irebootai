@@ -6,7 +6,7 @@
 
 **Linux operations, cloud automation, reliability, observability, and practical AI-assisted engineering.**
 
-[Portfolio](https://www.rebootai.link) · [GitHub](https://github.com/irebootai)
+[Portfolio](https://rebootai-portfolio.canyouhandelai.chatgpt.site/) · [Featured Work](https://rebootai-portfolio.canyouhandelai.chatgpt.site/#work) · [GitHub](https://github.com/irebootai)
 
 </div>
 
@@ -37,7 +37,7 @@ A production-minded Python automation and decision-support platform designed aro
 
 **Engineering focus:** Python · Linux · systemd · APIs · automation · monitoring · reliability · state machines · CI/CD
 
-[View the public portfolio repository](https://github.com/irebootai/extremeviper_public)
+[View ExtremeViper on GitHub](https://github.com/irebootai/extremeviper_public) · [View Featured Work](https://rebootai-portfolio.canyouhandelai.chatgpt.site/#work)
 
 > The public repository is a portfolio-safe presentation of the engineering architecture and operational approach. Sensitive runtime and execution components remain private.
 
@@ -68,7 +68,7 @@ AI agents · LLM workflows · API integrations · workflow automation
 
 I am especially interested in engineering work that sits between development and operations: automating repetitive tasks, improving deployment and monitoring workflows, troubleshooting production systems, documenting operational knowledge, and making infrastructure more reliable.
 
-My portfolio is being curated around work that demonstrates those capabilities rather than around tutorial or forked repositories.
+My portfolio is curated around work that demonstrates those capabilities rather than around tutorial or forked repositories.
 
 ## Career Direction
 
@@ -82,6 +82,6 @@ I am focused on opportunities in:
 
 ### Build reliable systems. Automate repeatable work. Document what matters.
 
-[rebootai.link](https://www.rebootai.link)
+[Portfolio](https://rebootai-portfolio.canyouhandelai.chatgpt.site/) · [Featured Work](https://rebootai-portfolio.canyouhandelai.chatgpt.site/#work) · [rebootai.link](https://www.rebootai.link)
 
 </div>
