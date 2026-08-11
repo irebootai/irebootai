@@ -1,87 +1,70 @@
 <div align="center">
 
-# GM Alam | RebootAI
+# GM Alam · RebootAI
 
-### Cloud • DevOps • Platform Engineering • SRE • Operations Support
+### Cloud Operations · DevOps · Platform Engineering · SRE
 
-**Linux operations, cloud automation, reliability, observability, and practical AI-assisted engineering.**
+**I build and operate reliable systems — then automate the repetitive parts.**
 
-[Portfolio](https://rebootai-portfolio.canyouhandelai.chatgpt.site/) · [Featured Work](https://rebootai-portfolio.canyouhandelai.chatgpt.site/#work) · [GitHub](https://github.com/irebootai)
+[Portfolio](https://rebootai-portfolio.canyouhandelai.chatgpt.site/) · [Featured Work](https://rebootai-portfolio.canyouhandelai.chatgpt.site/#work) · [ExtremeViper](https://github.com/irebootai/extremeviper_public)
 
 </div>
 
 ---
 
-## About Me
+## Engineering Profile
 
-I am an operations-focused engineer building practical systems around **Linux, cloud infrastructure, automation, CI/CD, observability, reliability, and production support**.
+Operations-focused engineer working across **Linux, cloud infrastructure, automation, CI/CD, observability, production support, and reliability engineering**.
 
-My work combines hands-on infrastructure operations with Python and API automation, container platforms, monitoring, incident troubleshooting, and AI-assisted workflows. I focus on making systems easier to operate, safer to change, and easier to understand.
+I’m most effective where development meets operations: troubleshooting systems, improving deployment and monitoring workflows, automating manual work, integrating APIs, and turning operational knowledge into repeatable tooling and documentation.
 
-## Professional Focus
+**Current focus:** Cloud Operations · DevOps · Platform Engineering · Site Reliability · Production Support · Infrastructure Automation
 
-- Cloud and infrastructure operations
-- DevOps and platform engineering
-- Site reliability and production support
-- Linux administration and troubleshooting
-- Python, Bash, APIs, and webhook automation
-- CI/CD, deployment, and GitOps workflows
-- Monitoring, observability, and incident response
-- AI-assisted operations and workflow automation
+---
 
-## Featured Engineering Work
+## Flagship Work
 
-### ExtremeViper — Flagship Engineering Project
+### ExtremeViper
 
-A production-minded Python automation and decision-support platform designed around real-time data processing, state management, operational controls, monitoring, and Linux service deployment.
+**Production-minded Python automation and decision-support system** built around real-time data processing, state management, operational controls, monitoring, and Linux service deployment.
 
-**Engineering focus:** Python · Linux · systemd · APIs · automation · monitoring · reliability · state machines · CI/CD
+`Python` · `Linux` · `systemd` · `APIs` · `Automation` · `Monitoring` · `State Machines` · `CI/CD` · `Reliability`
 
-[View ExtremeViper on GitHub](https://github.com/irebootai/extremeviper_public) · [View Featured Work](https://rebootai-portfolio.canyouhandelai.chatgpt.site/#work)
+[Explore the project](https://github.com/irebootai/extremeviper_public) · [See it in the portfolio](https://rebootai-portfolio.canyouhandelai.chatgpt.site/#work)
 
-> The public repository is a portfolio-safe presentation of the engineering architecture and operational approach. Sensitive runtime and execution components remain private.
+> The public repository presents the architecture, engineering approach, and operational design while keeping sensitive runtime components private.
 
-## Core Technology Stack
+---
 
-**Cloud & Infrastructure**  
-AWS · EC2 · Azure · Linux · VPS · systemd · SSH
+## What I Work With
 
-**Containers & Platforms**  
-Docker · OpenShift · Kubernetes
+| Area | Tools & Technologies |
+|---|---|
+| **Cloud & Infrastructure** | AWS, EC2, Azure, Linux, VPS, systemd, SSH |
+| **Automation** | Python, Bash, PowerShell, REST APIs, Webhooks, n8n |
+| **Containers & Platforms** | Docker, OpenShift, Kubernetes |
+| **CI/CD & GitOps** | GitHub Actions, Jenkins, GitLab CI, Azure DevOps, Argo CD, Git |
+| **Observability** | Grafana, Prometheus, Dynatrace, CloudWatch, ELK, Splunk |
+| **Operations** | Incident response, troubleshooting, RCA, production support |
+| **AI-assisted workflows** | AI agents, LLM integrations, API-driven automation |
 
-**Automation & Scripting**  
-Python · Bash · PowerShell · REST APIs · Webhooks · n8n
+---
 
-**CI/CD & GitOps**  
-GitHub Actions · Jenkins · GitLab CI · Azure DevOps · Argo CD · Git · Bitbucket
+## How I Think About Engineering
 
-**Observability & Operations**  
-Grafana · Prometheus · Dynatrace · CloudWatch · ELK · Splunk · Incident Response · RCA
-
-**Data**  
-PostgreSQL · MySQL · SQL Server
-
-**AI-Assisted Engineering**  
-AI agents · LLM workflows · API integrations · workflow automation
-
-## What I Build
-
-I am especially interested in engineering work that sits between development and operations: automating repetitive tasks, improving deployment and monitoring workflows, troubleshooting production systems, documenting operational knowledge, and making infrastructure more reliable.
-
-My portfolio is curated around work that demonstrates those capabilities rather than around tutorial or forked repositories.
-
-## Career Direction
-
-I am focused on opportunities in:
-
-**Cloud Operations · DevOps · Platform Engineering · Site Reliability Engineering · Operations / Production Support · Infrastructure Automation**
+- **Reliability first** — systems should be understandable, observable, and recoverable.
+- **Automate repeatable work** — use scripts, APIs, and workflows to reduce operational friction.
+- **Operate what you build** — deployment, monitoring, troubleshooting, and documentation are part of engineering.
+- **Keep humans in control** — especially where automation touches high-impact actions.
 
 ---
 
 <div align="center">
 
-### Build reliable systems. Automate repeatable work. Document what matters.
+### Selected work, architecture, and engineering case studies
 
-[Portfolio](https://rebootai-portfolio.canyouhandelai.chatgpt.site/) · [Featured Work](https://rebootai-portfolio.canyouhandelai.chatgpt.site/#work) · [rebootai.link](https://www.rebootai.link)
+[**View the RebootAI Portfolio →**](https://rebootai-portfolio.canyouhandelai.chatgpt.site/)
+
+[Featured Work](https://rebootai-portfolio.canyouhandelai.chatgpt.site/#work) · [GitHub](https://github.com/irebootai) · [rebootai.link](https://www.rebootai.link)
 
 </div>
